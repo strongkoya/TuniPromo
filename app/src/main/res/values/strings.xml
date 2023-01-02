@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TuniPromo</string>
+    <string-array name="spinner_sort">
+        <item>Sans Tri</item>
+        <item>Par Titre</item>
+        <item>Par Categorie</item>
+        <item>Par Localisation</item>
+        <item>Par Description</item>
+    </string-array>
+
+</resources>
